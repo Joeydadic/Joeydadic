@@ -1,5 +1,6 @@
-Hi, I’m Joseph Dadic and am currently on the journey of graduating from Queens College in Flushing, New York with a Bachelor's of Computer Science
-I am always interested in learning new languages, but my main priorities are Java, Python, and JavaScript.
+Hi, I’m Joseph Dadic and am currently on the journey of graduating from Queens College in Flushing, New York with a Bachelor's of Computer Science, expected graduation date by August 2022.
+
+I am always interested in improving on my current skillset to be able to create!
 
 
 <!---
