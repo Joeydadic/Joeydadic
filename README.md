@@ -2,7 +2,7 @@ Hi, I’m Joseph Dadic and am currently on the journey of graduating from Queens
 
 I am always interested in improving on my current skillset to be able to create!
 
-
+LinkedIn Profile: https://www.linkedin.com/in/joseph-dadic/
 <!---
 Joeydadic/Joeydadic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
